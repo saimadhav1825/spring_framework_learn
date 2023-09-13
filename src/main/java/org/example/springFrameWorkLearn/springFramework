@@ -1,0 +1,5 @@
+------------Spring
+
+Spring will provide dependency injection(ioc)
+
+Spring dependency injection container will responsible to give object for your, it will inject object and  can achieve loose coupling
